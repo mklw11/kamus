@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KAPOTAI</string>
+    <string name="terjemahan">Terjemahan</string>
+    <string name="kosakata">Kamus</string>
+    <string name="tambah">Tambah</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="developer">Developer</string>
+    <string name="keluar">Keluar</string>
+    <string name="keterangan">Coba-Coba</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="kutai">Kutai</string>
+    <string name="polandia">Polandia</string>
+    <string name="terjemahkan">Terjemahkan</string>
+
+</resources>

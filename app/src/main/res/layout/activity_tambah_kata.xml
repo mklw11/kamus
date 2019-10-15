@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="KAPUTAI"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="indonesia :">
+    </TextView>
+
+    <EditText
+        android:id="@+id/txtIndonesia"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="">
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="kutai :">
+    </TextView>
+
+    <EditText
+        android:id="@+id/txtKutai"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="">
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="polandia :">
+    </TextView>
+
+    <EditText
+        android:id="@+id/txtPolandia"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    </EditText>
+
+    <Button
+        android:id="@+id/btnTerjemah"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="saveData"
+        android:text="save Data">
+    </Button>
+</LinearLayout>
